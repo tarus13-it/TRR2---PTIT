@@ -1,3 +1,6 @@
+// Bài này không cần sử dụng vào ra file lol
+// Code Ptit suck sometimes
+
 #include <iostream>
 #include <vector>
 
